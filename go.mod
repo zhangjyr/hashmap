@@ -1,4 +1,4 @@
-module github.com/cornelk/hashmap
+module github.com/zhangjyr/hashmap
 
 go 1.12
 
